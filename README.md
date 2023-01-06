@@ -22,11 +22,11 @@ contributions are always welcome :)))
 
 ## Screenshots
 
-![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen1.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Zack-Heisnberg/jsp-servlet-crud-ecom/main/screen1.png)
 
-![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Zack-Heisnberg/jsp-servlet-crud-ecom/main/screen2.png)
 
-![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/Zack-Heisnberg/jsp-servlet-crud-ecom/main/screen3.png)
 
 ## Prerequisites
 
