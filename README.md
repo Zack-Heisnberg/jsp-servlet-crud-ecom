@@ -22,11 +22,11 @@ contributions are always welcome :)))
 
 ## Screenshots
 
-![alt text](https://github.com/truonghoangthuan/jsp-servlet-ecommerce-website/blob/master/screenshots/home.png?raw=true)
+![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen1.png?raw=true)
 
-![alt text](https://github.com/truonghoangthuan/jsp-servlet-ecommerce-website/blob/master/screenshots/shop.png)
+![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen2.png?raw=true)
 
-![alt text](https://github.com/truonghoangthuan/jsp-servlet-ecommerce-website/blob/master/screenshots/cart.png)
+![alt text](https://github.com/Zack-Heisnberg/jsp-servlet-crud-ecom/blob/master/screen3.png?raw=true)
 
 ## Prerequisites
 
